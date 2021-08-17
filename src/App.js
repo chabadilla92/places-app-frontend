@@ -9,7 +9,7 @@ import './App.css';
 
 
 function App() {
-const url = "http://localhost:4000";
+const url = "https://favorite-places-ca.herokuapp.com";
 const [places, setPlaces] = useState([]);
 
 // EMPTY PLACE
